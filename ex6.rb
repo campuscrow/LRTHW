@@ -13,7 +13,7 @@ puts "I said #{x}."
 puts "I also said: '#{y}'."
 
 hilarious = false
-joke_evaluation = 'Isn\'t that joke so funny?! #{hilarious}.'
+joke_evaluation = "Isn\'t that joke so funny?! #{hilarious}." #double quotes now. no longer broken
 
 puts joke_evaluation
 
